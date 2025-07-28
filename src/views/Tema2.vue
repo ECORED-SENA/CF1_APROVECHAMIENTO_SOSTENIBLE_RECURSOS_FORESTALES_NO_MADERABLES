@@ -7,7 +7,7 @@
         span 2
       h1 Flora silvestre
 
-    p.mb-5 La flora silvestre según lo descrito en el Decreto 690 de 2021, se define como:
+    p.mb-5 La flora silvestre, según lo descrito en el Decreto 690 de 2021, se define como:
 
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
@@ -21,7 +21,7 @@
             .col-lg
               p.mb-0 Conjunto de especies e individuos vegetales del territorio nacional que no se han plantado o mejorado por el hombre, presentes en ecosistemas naturales diferentes al bosque natural. Incluye la flora acuática.
         p(data-aos="fade-left") El Ministerio de Ambiente y Desarrollo Sostenible (MADS), a través del Decreto 690 de 2021, establece que los productos forestales no maderables deben ser reglamentados con el fin de facilitar su adquisición y garantizar el derecho al manejo sostenible de los ecosistemas naturales. Esta reglamentación incluye la flora silvestre, considerada un componente ambiental clave de la biodiversidad colombiana, compuesta en su mayoría por especies autóctonas.
-        h5 Productos forestal no maderables del bosque: bienes de origen biológico distintos de la madera y la fauna, que se obtienen de las variadas formas de vida de la flora silvestre, incluidos los hongos, y que hacen parte de los ecosistemas naturales.
+        h5 Productos forestales no maderables del bosque: bienes de origen biológico distintos de la madera y la fauna, que se obtienen de las variadas formas de vida de la flora silvestre, incluidos los hongos, y que hacen parte de los ecosistemas naturales.
     
     separador
 
@@ -41,10 +41,10 @@
                   ul.lista-ul--color
                     li.mb-3.d-flex.bg-color-white.tarjeta.p-3
                       i.fa.fa-arrow-circle-right
-                      p.mb-0 Exudados: resinas, aceites, oleorresinas
+                      p.mb-0 Exudados: resinas, aceites, oleorresinas.
                     li.mb-3.d-flex.bg-color-white.tarjeta.p-3
                       i.fa.fa-arrow-circle-right
-                      p.mb-0 Estructuras vegetativas: tallos, hojas, raíces, yemas apicales 
+                      p.mb-0 Estructuras vegetativas: tallos, hojas, raíces, yemas apicales.
                     li.mb-3.d-flex.bg-color-white.tarjeta.p-3
                       i.fa.fa-arrow-circle-right
                       p.mb-0 Partes reproductivas: nueces, frutos, aceites de semilla, semillas
@@ -93,7 +93,7 @@
                 img(src="@/assets/curso/tema2/8.png")
             .col-lg-6
               h5 Especies clave
-              p Tienen un papel ecológico importante en las funciones del ecosistema, en este grupo se pueden encontrar especies sombrilla o facilitadoras.
+              p Tienen un papel ecológico importante en las funciones del ecosistema; en este grupo se pueden encontrar especies sombrilla o facilitadoras.
           
 
 

@@ -30,9 +30,9 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1.bg-color-11 Clasificación de productos no maderables del bosque y sus cadenas productivas
-                  p.text-white.mb-0 Se invita a leer el documento Clasificación de productos no maderables del bosque y sus cadenas productivas, donde se aborda una recopilación detallada de especies vegetales que no producen madera como producto principal, pero que tienen un alto valor económico, social o ecológico. 
+                  p.text-white.mb-0 Se invita a leer el documento <b>clasificación de productos no maderables del bosque y sus cadenas productivas</b>, donde se aborda una recopilación detallada de especies vegetales que no producen madera como producto principal, pero que tienen un alto valor económico, social o ecológico. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     
@@ -60,13 +60,13 @@
               ul.lista-ul--color
                 li.mb-1.d-flex
                   i.fa.fa-arrow-circle-right
-                  p.mb-0 Fruto
+                  p.mb-0 Fruto.
                 li.mb-1.d-flex
                   i.fa.fa-arrow-circle-right
-                  p.mb-0 Nuez/semilla
+                  p.mb-0 Nuez/semilla.
                 li.mb-1.d-flex
                   i.fa.fa-arrow-circle-right
-                  p.mb-0 Semilla oleaginosa
+                  p.mb-0 Semilla oleaginosa.
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -81,10 +81,10 @@
               ul.lista-ul--color
                 li.mb-1.d-flex
                   i.fa.fa-arrow-circle-right
-                  p.mb-0 Resina
+                  p.mb-0 Resina.
                 li.mb-1.d-flex
                   i.fa.fa-arrow-circle-right
-                  p.mb-0 Savia
+                  p.mb-0 Savia.
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -93,7 +93,7 @@
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/tema3/6.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/tema3/6.svg', alt='')
 
               h3.text-center Estructuras vegetales
               p.mb-0 Tronco, partes verdes, flores, hojas, raíz, corteza, tubérculo, yemas apicales, brotes, tallos.
@@ -107,7 +107,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/fEePSm3KEvM?si=60CE7VqIEGmR4x2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .bg-color-8.mb-5
       .px-4.px-md-5.py-4
@@ -159,37 +159,37 @@
                 img(src='@/assets/curso/tema3/9.png' alt='AvatarTop').mx-auto.mb-3
                 div.p-4
                   h4.text-center.mb-4 Yabla 
-                  p.text-center Construcción, elaboración de artesanías y ornamentos
+                  p.text-center Construcción, elaboración de artesanías y ornamentos.
               .bg-color-white.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema3/10.png' alt='AvatarTop').mx-auto.mb-3
                 div.p-4
                   h4.text-center.mb-4 Resina de copal 
-                  p.text-center Uso ceremonial
+                  p.text-center Uso ceremonial.
               .bg-color-white.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema3/11.png' alt='AvatarTop').mx-auto.mb-3
                 div.p-4
                   h4.text-center.mb-4 Chicozapote 
-                  p.text-center Extracción de látex, uso alimenticio y elaboración de golosinas
+                  p.text-center Extracción de látex, uso alimenticio y elaboración de golosinas.
               .bg-color-white.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema3/12.png' alt='AvatarTop').mx-auto.mb-3
                 div.p-4
                   h4.text-center.mb-4 Agaves 
-                  p.text-center Alimentación, bebidas, extracción de fibras y producción de destilados
+                  p.text-center Alimentación, bebidas, extracción de fibras y producción de destilados.
               .bg-color-white.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema3/13.png' alt='AvatarTop').mx-auto.mb-3
                 div.p-4
                   h4.text-center.mb-4 Hongos 
-                  p.text-center Alimentación y aplicaciones en farmacología
+                  p.text-center Alimentación y aplicaciones en farmacología.
               .bg-color-white.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema3/14.png' alt='AvatarTop').mx-auto.mb-3
                 div.p-4
                   h4.text-center.mb-4 Orégano 
-                  p.text-center Uso culinario y extracción de aceites esenciales
+                  p.text-center Uso culinario y extracción de aceites esenciales.
               .bg-color-white.h-100.shadow-app.tarjeta
                 img(src='@/assets/curso/tema3/15.png' alt='AvatarTop').mx-auto.mb-3
                 div.p-4
                   h4.text-center.mb-4 Cactáceas 
-                  p.text-center Uso ornamental, alimenticio y obtención de derivados para la industria             
+                  p.text-center Uso ornamental, alimenticio y obtención de derivados para la industria.             
           .col-lg-3.order-lg-1
             figure
               img(src='@/assets/curso/tema3/8.png', alt='')
@@ -199,7 +199,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3	Valor económico, social y ecológico
     
-    p.mb-5 La flora silvestre y en general los productos no maderables del bosque tienen valores desde el punto de vista económico, social y ecológico. Dichos valores se describen a continuación (Humboldt, 2020; Arias y Cárdenas, 2007):
+    p.mb-5 La flora silvestre, y en general, los productos no maderables del bosque tienen valores desde el punto de vista económico, social y ecológico. Dichos valores se describen a continuación (Humboldt, 2020; Arias y Cárdenas, 2007):
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Económico" :icono="require('@/assets/componentes/6.svg')")
@@ -312,14 +312,14 @@
                 img(src="@/assets/curso/tema3/27.png" data-aos="zoom-in")
               div.text-center.p-4
                 h4 Botánica
-                p Es la disciplina que estudia, describe y clasifica las plantas y su relación entre sí y con otros organismos. Forma parte de la biología. La biología estudia el reino Plantae, es decir, las plantas, e incluye también a los reinos Fungi (hongos) y Chromista. Todos estos grupos tienen en común que no poseen cloroplastos ni presentan movilidad propia.
+                p Es la disciplina que estudia, describe y clasifica las plantas y su relación entre sí y con otros organismos. Forma parte de la biología. La biología estudia el reino Plantae, es decir, las plantas, e incluye también a los reinos <em>Fungi</em> (hongos) y <em>Chromista</em>. Todos estos grupos tienen en común que no poseen cloroplastos ni presentan movilidad propia.
           .col-lg-6.mb-3.mb-lg-0
             .bg-color-4.tarjeta.h-100
               figure
                 img(src="@/assets/curso/tema3/28.png" data-aos="zoom-in")
               div.text-center.p-4
                 h4 Taxonomía
-                p Es la ciencia que trata los principios de la clasificación de los seres vivos. Comprende tres procesos fundamentales: la identificación, la nomenclatura y la clasificación de los organismos. Este proceso parte de las propiedades generales de los seres vivos hasta llegar a las más específicas. Para clasificar las plantas se consideran criterios como características anatómicas, fisiológicas, morfológicas y otras propias de cada organismo.
+                p Es la ciencia que trata los principios de la clasificación de los seres vivos. Comprende tres procesos fundamentales: la identificación, la nomenclatura y la clasificación de los organismos. Este proceso parte de las propiedades generales de los seres vivos hasta llegar a las más específicas. Para clasificar las plantas, se consideran criterios como características anatómicas, fisiológicas, morfológicas y otras propias de cada organismo.
 
     separador
 
@@ -346,10 +346,10 @@
                 img(src="@/assets/curso/tema3/30.png")
             .col-lg-6
               h4 Palma milpesos
-              p.mb-0 <b>Género</b>: Oenocarpus
-              p.mb-0 <b>Orden</b>: Arecales
-              p.mb-0 <b>Clase</b>: Liliopsida
-              p.mb-0 <b>Filo</b>: Tracheophyta
+              p.mb-0 <b>Género</b>: <em>oenocarpus</em>
+              p.mb-0 <b>Orden</b>: <em>arecales</em>
+              p.mb-0 <b>Clase</b>: <em>liliopsida</em>
+              p.mb-0 <b>Filo</b>: <em>tracheophyta</em>
 
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.mb-3.mb-lg-0
@@ -357,10 +357,10 @@
                 img(src="@/assets/curso/tema3/31.png")
             .col-lg-6
               h4 Guarumo
-              p.mb-0 <b>Género</b>: Cecropia
-              p.mb-0 <b>Orden</b>: Rosales
-              p.mb-0 <b>Clase</b>: Magnoliopsida
-              p.mb-0 <b>Filo</b>: Tracheophyta
+              p.mb-0 <b>Género</b>: tecropia
+              p.mb-0 <b>Orden</b>: rosales
+              p.mb-0 <b>Clase</b>: magnoliopsida
+              p.mb-0 <b>Filo</b>: <em>tracheophyta</em>
 
 
           .row.align-items-center.p-4.p-md-5
@@ -369,10 +369,10 @@
                 img(src="@/assets/curso/tema3/32.png")
             .col-lg-6
               h4 Árbol de caucho
-              p.mb-0 <b>Género</b>: Ficus
-              p.mb-0 <b>Orden</b>: Rosales
-              p.mb-0 <b>Clase</b>: Magnoliopsida
-              p.mb-0 <b>Filo</b>: Tracheophyta
+              p.mb-0 <b>Género</b>: ficus
+              p.mb-0 <b>Orden</b>: rosales
+              p.mb-0 <b>Clase</b>: magnoliopsida
+              p.mb-0 <b>Filo</b>: <em>tracheophyta</em>
 
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.mb-3.mb-lg-0
@@ -380,10 +380,10 @@
                 img(src="@/assets/curso/tema3/33.png")
             .col-lg-6
               h4 Achiote
-              p.mb-0 <b>Género</b>: Bixa
-              p.mb-0 <b>Orden</b>: Malvales
-              p.mb-0 <b>Clase</b>: Magnoliopsida
-              p.mb-0 <b>Filo</b>: Tracheophyta
+              p.mb-0 <b>Género</b>: bixa
+              p.mb-0 <b>Orden</b>: malvales
+              p.mb-0 <b>Clase</b>: magnoliopsida
+              p.mb-0 <b>Filo</b>: <em>tracheophyta</em>
 
          
     

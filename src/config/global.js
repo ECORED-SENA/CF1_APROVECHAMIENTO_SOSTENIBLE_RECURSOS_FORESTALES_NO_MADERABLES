@@ -267,12 +267,12 @@ export default {
       link:
         'https://revistas.udistrital.edu.co/index.php/colfor/article/view/3270/0',
     },
-    {
-      referencia:
-        'Ministerio de Desarrollo Agrario y Riego. (2015). Los productos forestales no maderables. MIDAGRI.',
-      link:
-        'https://www.midagri.gob.pe/portal/objetivos/49-sector-agrario/recurso-forestal/354-productos-no-maderables ',
-    },
+    // {
+    //   referencia:
+    //     'Ministerio de Desarrollo Agrario y Riego. (2015). Los productos forestales no maderables. MIDAGRI.',
+    //   link:
+    //     'https://www.midagri.gob.pe/portal/objetivos/49-sector-agrario/recurso-forestal/354-productos-no-maderables ',
+    // },
     {
       referencia: 'Naturalista Colombia. (s.f). Achiote, Taxonomía. ',
       link: 'https://colombia.inaturalist.org/taxa/127676-Bixa-orellana',

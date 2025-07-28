@@ -23,7 +23,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.1 Elementos de los ecosistemas
     
-    p.mb-5 Un ecosistema está compuesto por elementos bióticos y abióticos, los cuáles al relacionarse constituyen los servicios que pueden brindar a su entorno:
+    p.mb-5 Un ecosistema está compuesto por elementos bióticos y abióticos, los cuáles, al relacionarse, constituyen los servicios que pueden brindar a su entorno.
 
     TabsA.color-acento-botones.mb-3
       .tarjeta.color-acento-botones--borde.p-4(titulo="Elementos bióticos")
@@ -38,7 +38,7 @@
         .row.align-items-center
           .col-xl-7.mb-3.mb-lg-0
             h4 Elementos abióticos
-            p Incluye elementos como el agua, el suelo, el clima y el paisaje, los cuales otorgan características particulares a cada ecosistema y permiten el establecimiento de diversas interacciones entre los organismos y su entorno
+            p Incluye elementos como el agua, el suelo, el clima y el paisaje, los cuales otorgan características particulares a cada ecosistema y permiten el establecimiento de diversas interacciones entre los organismos y su entorno.
           .col-xl-5
             figure
               img(src='@/assets/curso/tema1/4.png', alt='Texto que describa la imagen')
