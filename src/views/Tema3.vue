@@ -119,7 +119,7 @@
     
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1. 
-      span PFNM vegetales y procesos de aplicación
+      span #[i PFNM vegetales y procesos de aplicación]
     
     .tabla-a.color-acento-contenido.mb-5.pst
       table
@@ -330,7 +330,7 @@
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 1. 
-      span Unidad básica para clasificación taxonómica
+      span #[i Unidad básica para clasificación taxonómica]
 
     figure.mb-5
       img(src="@/assets/curso/tema3/29.png", data-aos="zoom-in", alt="La figura representa la unidad básica para clasificación taxonómica, la cual tiene en cuenta dominio, reino, división, clase, orden, familia, género y especie")

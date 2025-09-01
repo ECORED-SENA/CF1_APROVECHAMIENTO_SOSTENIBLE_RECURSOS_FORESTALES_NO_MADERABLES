@@ -146,7 +146,7 @@
     
     .titulo-sexto.color-acento-contenido
       h5 Figura 2. 
-      span Niveles de inventario 
+      span #[i Niveles de inventario]
 
     figure
       img.d-none.d-lg-flex(src="@/assets/curso/tema4/20.svg", data-aos="zoom-in", alt="La imagen representa los niveles de inventario que puede aplicarse a los recursos forestales no maderables, estos se clasifican en inventario de alto, medio o bajo nivel.")
@@ -177,7 +177,7 @@
             .col-lg-auto
               img(src="@/assets/curso/tema4/23.svg", style="max-width: 190px").mx-auto
             .col-lg
-              p.mb-0 Una vez definido el tamaño de las parcelas, se establece cuántas serán medidas en el terreno. Según lo indicado en el Decreto 1791 de 1996, compilado en el Decreto Único Reglamentario 1076 de 2015, el inventario estadístico debe aplicarse a todas las especies con un diámetro a la altura del pecho (DAP) igual o superior a 10 centímetros. Además, se debe garantizar una intensidad de muestreo tal que el error no supere el 15%, con un nivel de confianza del 95% (UNAD, 2022, p. 4).
+              p.mb-0 Una vez definido el tamaño de las parcelas, se establece cuántas serán medidas en el terreno. Según lo indicado en el Decreto 1791 de 1996, compilado en el Decreto Único Reglamentario 1076 de 2015, el inventario estadístico debe aplicarse a todas las especies con un diámetro a la altura del pecho (DAP) igual o superior a 10 centímetros. Además, se debe garantizar una intensidad de muestreo tal que el error no supere el 15 %, con un nivel de confianza del 95 % (UNAD, 2022, p. 4).
 
 
 

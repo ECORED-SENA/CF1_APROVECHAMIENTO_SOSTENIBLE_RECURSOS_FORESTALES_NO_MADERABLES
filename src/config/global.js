@@ -37,7 +37,7 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Elementos de los ecosistemas	3',
+            titulo: 'Elementos de los ecosistemas',
             hash: 't_1_1',
           },
           {
@@ -168,7 +168,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/XXXXXXXX_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -263,16 +263,10 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible, Unión Europea, y  Universidad Distrital Francisco José de Caldas. (2020). Productos Forestales No Maderables (PFNM) en Colombia: Consideraciones para su desarrollo. https://revistas.udistrital.edu.co/index.php/colfor/article/view/3270/0',
+        'Ministerio de Ambiente y Desarrollo Sostenible, Unión Europea, y  Universidad Distrital Francisco José de Caldas. (2020). Productos Forestales No Maderables (PFNM) en Colombia: Consideraciones para su desarrollo. ',
       link:
         'https://revistas.udistrital.edu.co/index.php/colfor/article/view/3270/0',
     },
-    // {
-    //   referencia:
-    //     'Ministerio de Desarrollo Agrario y Riego. (2015). Los productos forestales no maderables. MIDAGRI.',
-    //   link:
-    //     'https://www.midagri.gob.pe/portal/objetivos/49-sector-agrario/recurso-forestal/354-productos-no-maderables ',
-    // },
     {
       referencia: 'Naturalista Colombia. (s.f). Achiote, Taxonomía. ',
       link: 'https://colombia.inaturalist.org/taxa/127676-Bixa-orellana',
@@ -362,14 +356,14 @@ export default {
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
-          cargo: 'Desarrollador fullstack',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
         },
       ],
     },
     {
-      titulo: 'GESTORES DE REPOSITORIO',
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
           nombre: 'Aixa Natalia Sendoya Fernández',

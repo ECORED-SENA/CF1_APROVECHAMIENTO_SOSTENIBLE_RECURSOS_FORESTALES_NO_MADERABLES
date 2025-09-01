@@ -21,10 +21,10 @@ export default {
         'Características generales de los recursos forestales no maderables.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Aplicar  los fundamentos prácticos relacionados con las características generales de los recursos forestales no maderables.',
+        '<b> Objetivo:</b> aplicar  los fundamentos prácticos relacionados con las características generales de los recursos forestales no maderables.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,

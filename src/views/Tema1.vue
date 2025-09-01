@@ -152,7 +152,7 @@
         figure
           img(src="@/assets/curso/tema1/16.png", data-aos="zoom-in")
       .col-lg-9
-         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-4")
+         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-4")
           div(titulo="Identidad cultural y arraigo")
             p.ms-5 Permiten mantener y aplicar prácticas asociadas a las riquezas culturales de distintas comunidades, fortaleciendo su identidad y sentido de pertenencia.
           div(titulo="Cohesión social")
@@ -164,16 +164,16 @@
           div(titulo="Inspiración")
             p.ms-5 Sirven como fuente de inspiración para el diseño de patrones tradicionales y el desarrollo de productos innovadores vinculados a la cultura local.
     
-    separador
-
-    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.4	Principios de conservación de biodiversidad
-    
-    p.mb-5 Según lo establecido por la FAO (2021), los principios de conservación de la biodiversidad comprenden el uso sostenible y el acceso equitativo de los beneficios, con enfoques participativos, de precaución y adaptación: 
-    
     .bg-full-width.bg-fondo-2
-      .px-4.p-md-5
-        .row.justify-content-center.mb-5
+      .px-4.px-md-5
+
+        Separador
+
+        #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+          h2 1.4	Principios de conservación de biodiversidad
+
+        p.mb-5 Según lo establecido por la FAO (2021), los principios de conservación de la biodiversidad comprenden el uso sostenible y el acceso equitativo de los beneficios, con enfoques participativos, de precaución y adaptación: 
+        .row.justify-content-center
           .col-xl-3.col-lg-6.col-md-6.col-11.mb-4.mb-xl-0
             .crd_hover_txt(data-aos="flip-left").tarjeta
               .crd_hover_txt--img
